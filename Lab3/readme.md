@@ -52,4 +52,10 @@ Estimated Total Size (MB): 2.82
 ==========================================================================================
 ```
 
+## Список используемой литературы
+1. Shen Y. et al. Detection of impurities in wheat using terahertz spectral imaging and convolutional neural networks //Computers and Electronics in Agriculture. – 2021. – Т. 181. – С. 105931.
+2. Li G. et al. Research on wheat impurity identification method based on terahertz imaging technology //Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy. – 2025. – Т. 326. – С. 125205.
+3. Shen Y. et al. Image recognition method based on an improved convolutional neural network to detect impurities in wheat //IEEE access. – 2019. – Т. 7. – С. 162206-162218.
+4. AgaAzizi S. et al. Identification of impurity in wheat mass based on video processing using artificial neural network and PSO algorithm //Journal of Food Processing and Preservation. – 2021. – Т. 45. – №. 1. – С. e15067.
+5. Ebrahimi E., Mollazade K., Babaei S. Toward an automatic wheat purity measuring device: A machine vision-based neural networks-assisted imperialist competitive algorithm approach //Measurement. – 2014. – Т. 55. – С. 196-205.
 
